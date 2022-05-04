@@ -1,4 +1,11 @@
 body{
-	background: #00ffff;
+	background:#00FFFF;
 }
 
+
+.cuadro{
+	width: 500px;
+	height: 400px;
+	border-radius: 15px;
+	color: blue;
+}
